@@ -31,13 +31,16 @@ The project is divided into three main challenges:
 Based on the analysis, i
 identified and suspect that employee ID 3 may have been involved in the discrepancies. Further action is recommended to investigate transactions associated with this individual.
 
-## Technology Used
-- SQL
-- SQLite (as the database environment)
+## Technologies Used
+SQL for data querying and analysis.
+SQLite as the database platform.
 
 ## How to Run the Queries
-1. Load the `challenges.sql` file into your SQL environment.
-2. Execute queries in sequence to replicate the findings.
+1. Clone this repository to your local machine:
+git clone https://github.com/Konduru96/SQL--Portfolio.git
+2. Open the .db file (data/WSDA_Music.db) in an SQLite viewer like DB Browser for SQLite or your preferred SQL environment.
+3. Load and execute the queries from the challenges.sql file in sequence.
+4. Review the analysis and findings in the analysis.md file.
 
 ## Credits
 This project was completed as part of the LinkedIn Learning course **SQL Essential Training** with Walter Shields.
